@@ -176,6 +176,12 @@ ecosystem {
         url 'http://sdkman.io/'
         logo 'img/ecosystem/sdkman.png'
     }
+    
+    project('Grooscript') {
+        description 'Grooscript - a library to convert groovy code to javascript'
+        url 'http://grooscript.org'
+        logo 'img/ecosystem/grooscript.png'
+    }    
 }
 
 allEvents {
